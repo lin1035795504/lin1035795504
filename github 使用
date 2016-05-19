@@ -1,0 +1,7 @@
+ cd 文件夹  
+ mkdir testgit  创建本地仓库
+ git init 
+ git add 文件名     添加零时仓库
+ git comit -m "first commit"      连接
+ git remote add origin https://github.com/lin1035795504/test.git     //用户名改下     发送
+ git push-u origin master  // 更新
